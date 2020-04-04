@@ -14,28 +14,28 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 lang: en-US
-title: Sam's Notebook
-email: samwhite@uw.edu
-description: University of Washington - Fishery Sciences - Roberts Lab
-baseurl: /sams-notebook # the optional subpath of your site, e.g. "/blog"
-url: https://robertslab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+title: Aidan's Journal
+email: aidan12@uw.edu
+description: University of Washington - Fishery Sciences - Marine Predators Group
+baseurl: /aidans_journal # the optional subpath of your site, e.g. "/blog"
+url: https://AidanCox12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: Sam White
-  twitter: kubu4
+  name: Aidan Cox
+  #twitter: kubu4
   picture: /images/profile.jpeg
-twitter_username: kubu4
-github_username: kubu4
+#twitter_username: kubu4
+github_username: AidanCox12
 logo:  # path of site logo, e.g. "/assets/images/logo.png"
 search: true # true, false (default)
 search_full_content: true # true, false (default)
 search_provider: lunr # lunr (default), algolia
 algolia:
   application_id: ENNN0LGCFC # YOUR_APPLICATION_ID
-  index_name: sams_notebook # YOUR_INDEX_NAME
+  index_name: aidans_journal # YOUR_INDEX_NAME
   search_only_api_key: bad5bfcfef4a347363413e602cedd540 # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
 disqus:
-  shortname: kubu4
+  shortname: aidan12
 # Build settings
 markdown: kramdown
 
