@@ -18,7 +18,7 @@ title: Aidan's Journal
 email: aidan12@uw.edu
 description: Marine Predators Group - University of Washington
 baseurl: /aidans-nb # the optional subpath of your site, e.g. "/blog"
-url: "localhost:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://AidanCox12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Aidan Cox
   #twitter: kubu4
