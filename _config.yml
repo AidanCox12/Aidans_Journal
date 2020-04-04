@@ -16,9 +16,9 @@
 lang: en-US
 title: Aidan's Journal
 email: aidan12@uw.edu
-description: University of Washington - Fishery Sciences - Marine Predators Group
-baseurl: /aidans_journal # the optional subpath of your site, e.g. "/blog"
-url: https://AidanCox12.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+description: Marine Predators Group - University of Washington
+baseurl: /aidans-nb # the optional subpath of your site, e.g. "/blog"
+url: "localhost:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: Aidan Cox
   #twitter: kubu4
@@ -29,13 +29,6 @@ logo:  # path of site logo, e.g. "/assets/images/logo.png"
 search: true # true, false (default)
 search_full_content: true # true, false (default)
 search_provider: lunr # lunr (default), algolia
-algolia:
-  application_id: ENNN0LGCFC # YOUR_APPLICATION_ID
-  index_name: aidans_journal # YOUR_INDEX_NAME
-  search_only_api_key: bad5bfcfef4a347363413e602cedd540 # YOUR_SEARCH_ONLY_API_KEY
-  powered_by: # true (default), false
-disqus:
-  shortname: aidan12
 # Build settings
 markdown: kramdown
 
