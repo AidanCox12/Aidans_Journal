@@ -39,6 +39,7 @@ plugins: # previsously gems
   - jekyll-seo-tag
   - jekyll-sitemap
   - jekyll-paginate
+  - jekyll-include-cache
 feed:
   path: atom.xml
 remote_theme: "mmistakes/jekyll-theme-basically-basic"
